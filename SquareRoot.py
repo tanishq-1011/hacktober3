@@ -1,8 +1,8 @@
 from math import *
-ab = input("Enter a number :- \n")
+gg = input("Enter a number :- \n")
 
-def shw(ab):
+def pr(gg):
   print("The square root of the entered number is :- ")
-  print(sqrt(int((ab))))
+  print(sqrt(int((num))))
 
-shw(ab)
+pr(gg)
